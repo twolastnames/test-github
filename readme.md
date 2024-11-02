@@ -3,6 +3,6 @@
 |--------|-------|
 | Multi  | Lines?|
 | :----- | :---- |
-| a key  |
+| a key  | \
 this is a description to the last line |
 

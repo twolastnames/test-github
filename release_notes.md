@@ -4,5 +4,5 @@
 
 - feat
     - have awesome feature
-  - fix
+- fix
     - fix it good
